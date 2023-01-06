@@ -42,9 +42,9 @@
     "vue-web-cam": "^1.9.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-plugin-eslint": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "babel-eslint": "^10.1.0",
     "electron": "^13.0.0",
     "electron-builder": "^23.3.3",
